@@ -1,2 +1,2 @@
 # data-science
-data science anddeeplearning
+data science and deeplearning
